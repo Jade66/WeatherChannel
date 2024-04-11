@@ -1,4 +1,4 @@
-# WeatherStar 4000+
+# FORKED from WeatherStar 4000+ (ws4kp) by Github user netbymatt
 
 A live version of this project is available at https://weatherstar.netbymatt.com
 
